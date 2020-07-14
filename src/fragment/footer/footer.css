@@ -1,0 +1,13 @@
+.main-footer{
+    color: white;
+    background-color: #dc3545;
+    padding-top: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+    font-size: 8px;
+    font-family: "Century Gothic", CenturyGothic;
+    text-align: center;
+}
