@@ -4,14 +4,14 @@ import 'firebase/storage';
 
 
   let firebaseConfig = {
-    apiKey: "AIzaSyCX0iLmpJ6MSc5WTdqfGtSdWLX3MPth5S4",
-    authDomain: "healthapp-e39c7.firebaseapp.com",
-    databaseURL: "https://healthapp-e39c7.firebaseio.com",
-    projectId: "healthapp-e39c7",
-    storageBucket: "healthapp-e39c7.appspot.com",
-    messagingSenderId: "794326135355",
-    appId: "1:794326135355:web:85705dc7590702c597621e",
-    measurementId: "G-CPWP9D6RE5"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 class Firebase{
